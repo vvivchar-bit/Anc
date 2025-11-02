@@ -26,7 +26,7 @@
 
 | Файл | Опис |
 |------|------|
-| [Project1.cbproj](./Project1.cbproj) | Основний файл проєкту |
+| [Project1.cbproj]./Project1.cbproj | Основний файл проєкту |
 | [Project1.cpp](./Project1.cpp) | Точка входу (WinMain) |
 | [Project1PCH1.h](./Project1PCH1.h) | Заголовок для попередньої компіляції |
 | [Unit1.cpp](./Unit1.cpp) | Основний код форми (обробники кнопок) |
